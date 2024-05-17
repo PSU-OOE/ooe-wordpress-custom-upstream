@@ -14,6 +14,7 @@
     }
   ],
   "require": {
+    "pantheon-systems/upstream-management": "^1.0",
     "pantheon-upstreams/upstream-config": "*"
   },
   "config": {
@@ -22,7 +23,12 @@
     "optimize-autoloader": true,
     "sort-packages": true,
     "platform": {
-      "php": "7.2"
+      "php": "8.3"
+    },
+    "allow-plugins": {
+      "johnpbloch/wordpress-core-installer": true,
+      "pantheon-systems/upstream-management": true,
+      "composer/installers": true
     }
   },
   "extra": {
