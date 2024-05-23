@@ -3,3 +3,8 @@ web_docroot: true
 php_version: 8.3
 build_step: true
 
+workflows:
+  clear_cache:
+    - type: webphp
+      description: Cache Clearing
+      script: private/upstream/scripts/cache_clear.php
