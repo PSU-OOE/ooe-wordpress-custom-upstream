@@ -5,6 +5,6 @@ build_step: true
 
 workflows:
   clear_cache:
-  type: webphp
+  - type: webphp
     description: "Cache Clearing"
-      script: private/upstream/scripts/cache_clear.php
+    script: private/upstream/scripts/cache_clear.php
