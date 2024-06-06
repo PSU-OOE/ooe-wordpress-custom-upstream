@@ -38,7 +38,8 @@
         "wpackagist-plugin/duracelltomi-google-tag-manager": "1.20.2",
         "wpackagist-plugin/hide-admin-bar-based-on-user-roles": "3.8.1",
         "wpackagist-plugin/invisible-recaptcha": "1.2.3",
-        "wpackagist-plugin/onelogin-saml-sso": "3.4.0"
+        "wpackagist-plugin/onelogin-saml-sso": "3.4.0",
+        "wpackagist-plugin/page-links-to": "3.3.7"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
