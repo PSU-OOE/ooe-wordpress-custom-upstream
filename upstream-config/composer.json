@@ -40,7 +40,8 @@
         "wpackagist-plugin/invisible-recaptcha": "1.2.3",
         "wpackagist-plugin/onelogin-saml-sso": "3.4.0",
         "wpackagist-plugin/page-links-to": "3.3.7",
-        "wpackagist-plugin/redirection": "5.4.2"
+        "wpackagist-plugin/redirection": "5.4.2",
+        "wpackagist-plugin/search-exclude": "2.1.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
