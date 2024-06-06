@@ -25,7 +25,8 @@
         "wpackagist-plugin/add-to-any": "1.8.10",
         "wpackagist-plugin/ajax-load-more": "7.1.2",
         "wpackagist-plugin/akismet": "5.3.2",
-        "wpackagist-plugin/bnfw": "1.9.4"
+        "wpackagist-plugin/bnfw": "1.9.4",
+        "wpackagist-plugin/display-posts-shortcode": "3.0.2"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
