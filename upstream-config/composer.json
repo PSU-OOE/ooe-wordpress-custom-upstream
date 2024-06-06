@@ -35,7 +35,8 @@
         "wpackagist-plugin/wp-force-login": "5.6.3",
         "wpackagist-plugin/fresh-forms-for-gravity": "1.5",
         "wpackagist-plugin/gravity-forms-google-analytics-event-tracking": "2.4.14",
-        "wpackagist-plugin/duracelltomi-google-tag-manager": "1.20.2"
+        "wpackagist-plugin/duracelltomi-google-tag-manager": "1.20.2",
+        "wpackagist-plugin/hide-admin-bar-based-on-user-roles": "3.8.1"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
