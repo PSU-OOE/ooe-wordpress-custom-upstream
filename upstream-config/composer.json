@@ -21,7 +21,8 @@
         "wpackagist-theme/twentynineteen": "^1.2",
         "wp-coding-standards/wpcs": "^1.2.1",
         "wpackagist-theme/blockbase": "3.1.17",
-        "wpackagist-plugin/accessibility-checker": "1.13.1"
+        "wpackagist-plugin/accessibility-checker": "1.13.1",
+        "wpackagist-plugin/add-to-any": "1.8.10"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
