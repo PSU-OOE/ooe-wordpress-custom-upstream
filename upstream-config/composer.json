@@ -29,7 +29,8 @@
         "wpackagist-plugin/display-posts-shortcode": "3.0.2",
         "wpackagist-plugin/tinymce-advanced": "5.9.2",
         "wpackagist-plugin/powerpress": "11.9.1",
-        "wpackagist-plugin/classic-editor": "1.6.3"
+        "wpackagist-plugin/classic-editor": "1.6.3",
+        "wpackagist-plugin/enable-media-replace": "4.1.5"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
