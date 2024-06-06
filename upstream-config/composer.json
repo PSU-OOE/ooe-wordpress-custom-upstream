@@ -20,7 +20,8 @@
         "wpackagist-plugin/wp-native-php-sessions": ">=0.6.9",
         "wpackagist-theme/twentynineteen": "^1.2",
         "wp-coding-standards/wpcs": "^1.2.1",
-        "wpackagist-theme/blockbase": "3.1.17"
+        "wpackagist-theme/blockbase": "3.1.17",
+        "wpackagist-plugin/accessibility-checker": "1.13.1"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
