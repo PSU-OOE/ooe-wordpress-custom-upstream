@@ -23,7 +23,8 @@
         "wpackagist-theme/blockbase": "3.1.17",
         "wpackagist-plugin/accessibility-checker": "1.13.1",
         "wpackagist-plugin/add-to-any": "1.8.10",
-        "wpackagist-plugin/ajax-load-more": "7.1.2"
+        "wpackagist-plugin/ajax-load-more": "7.1.2",
+        "wpackagist-plugin/akismet": "5.3.2"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
