@@ -5,6 +5,7 @@ build_step: true
 
 workflows:
   deploy_product:
-    - type: webphp
-      description: Microsoft Teams Notification - Createing New Site
-      script: private/scripts/teams_notification/teams_notification.php
+    after:
+      - type: webphp
+        description: Microsoft Teams Notification - Creating New Site
+        script: private/scripts/teams_notification/teams_notification.php
