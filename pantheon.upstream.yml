@@ -8,4 +8,4 @@ workflows:
     after:
       - type: webphp
         description: Microsoft Teams Notification - Creating New Site
-        script: private/scripts/teams_notification/teams_notification.php
+        script: private/scripts/teams_notifications/teams_notification.php
