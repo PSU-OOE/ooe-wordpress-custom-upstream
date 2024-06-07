@@ -78,7 +78,7 @@ _teams_notification($secrets['teams_url'],$message);
  */
 function _get_secrets($requiredKeys, $defaults)
 {
-  $secretsFile = $_SERVER['HOME'] . '/files/private/secrets.json';
+  $secretsFile = '../secrets.json';
   if (!file_exists($secretsFile)) {
     die('No secrets file found. Aborting!');
   }
