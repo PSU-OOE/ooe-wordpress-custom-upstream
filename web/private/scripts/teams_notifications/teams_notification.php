@@ -80,7 +80,7 @@ function _get_secrets($requiredKeys, $defaults)
 {
   $secretsFile = '../secrets.json';
   if (!file_exists($secretsFile)) {
-    die('No secrets file found. Aborting!');
+    die('No secrets file found. Aborting! -- ' . __FILE__);
   }
   $secretsContents = file_get_contents($secretsFile);
   $secrets = json_decode($secretsContents, 1);
