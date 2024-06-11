@@ -46,7 +46,8 @@
         "wpackagist-plugin/socketlabs": "1.1.0",
         "wpackagist-plugin/svg-support": "2.5.5",
         "wpackagist-plugin/anti-spam": "7.3.5",
-        "wpackagist-plugin/ultimate-faqs": "1.9.11"
+        "wpackagist-plugin/ultimate-faqs": "1.9.11",
+        "wpackagist-plugin/pta-volunteer-sign-up-sheets": "4.5.1"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
