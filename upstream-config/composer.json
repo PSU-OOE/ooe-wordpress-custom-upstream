@@ -53,7 +53,8 @@
         "wpackagist-plugin/wp-mail-smtp": "4.0.1",
         "wpackagist-plugin/wp-subscribe": "1.2.16",
         "wpackagist-plugin/wp-cfm": "1.7.10",
-        "wpackagist-plugin/insert-headers-and-footers": "2.1.13"
+        "wpackagist-plugin/insert-headers-and-footers": "2.1.13",
+        "wpackagist-plugin/wp-optimize": "3.3.2"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
