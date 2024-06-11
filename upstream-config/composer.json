@@ -49,7 +49,8 @@
         "wpackagist-plugin/ultimate-faqs": "1.9.11",
         "wpackagist-plugin/pta-volunteer-sign-up-sheets": "4.5.1",
         "wpackagist-plugin/widget-logic": "5.10.4",
-        "wpackagist-plugin/widget-options": "4.0.6.1"
+        "wpackagist-plugin/widget-options": "4.0.6.1",
+        "wpackagist-plugin/wp-mail-smtp": "4.0.1"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
