@@ -69,6 +69,7 @@ switch($_POST['wf_type']) {
 
 $message = '';
 $message = preg_replace_callback('/{{((?:[^}]|}[^}])+)}}/', function($match) use ($params) { return ($params[$match[1]]); }, $message);
+$message = 'Test123';
 
 _teams_notification($secrets['teams_url'],$message);
 
