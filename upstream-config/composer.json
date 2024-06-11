@@ -45,7 +45,8 @@
         "wpackagist-plugin/instagram-feed": "6.4",
         "wpackagist-plugin/socketlabs": "1.1.0",
         "wpackagist-plugin/svg-support": "2.5.5",
-        "wpackagist-plugin/anti-spam": "7.3.5"
+        "wpackagist-plugin/anti-spam": "7.3.5",
+        "wpackagist-plugin/ultimate-faqs": "1.9.11"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
