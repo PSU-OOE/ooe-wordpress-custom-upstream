@@ -11,6 +11,10 @@
     {
       "type": "path",
       "url": "upstream-config"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/PSU-OOE/wp-theme-orig"
     }
   ],
   "require": {
