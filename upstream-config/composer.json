@@ -61,7 +61,7 @@
         "wpackagist-plugin/wp-optimize": "3.3.2",
         "wpackagist-plugin/wordpress-seo": "22.8",
         "wpackagist-plugin/redis-cache": "2.5.2",
-        "psu-ooe/wp-theme-orig": "^1.0"
+        "PSU-OOE/wp-theme-orig": "^1.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
