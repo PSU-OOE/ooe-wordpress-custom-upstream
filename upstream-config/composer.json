@@ -58,6 +58,7 @@
         "wpackagist-plugin/wordpress-seo": "22.8",
         "wpackagist-plugin/redis-cache": "2.5.2",
         "psu-ooe/wp-theme-orig": "^1.0",
+        "psu-ooe/events-manager-pro": "^1.0",
         "wpackagist-plugin/events-manager": "5.2.1"
     },
     "require-dev": {

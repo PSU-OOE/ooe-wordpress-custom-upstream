@@ -15,7 +15,11 @@
     {
         "type": "vcs",
         "url": "https://github.com/PSU-OOE/wp-theme-orig"
-    }
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/events-manager-pro"
+  }
   ],
   "require": {
     "pantheon-systems/upstream-management": "^1.0",
