@@ -13,13 +13,13 @@
       "url": "upstream-config"
     },
     {
-        "type": "vcs",
-        "url": "https://github.com/PSU-OOE/wp-theme-orig"
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/events-manager-pro"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/PSU-OOE/events-manager-pro"
-  }
+      "url": "https://github.com/PSU-OOE/wp-theme-orig"
+    }
   ],
   "require": {
     "pantheon-systems/upstream-management": "^1.0",
