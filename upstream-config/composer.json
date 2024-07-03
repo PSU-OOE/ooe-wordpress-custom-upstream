@@ -59,7 +59,8 @@
         "wpackagist-plugin/redis-cache": "2.5.2",
         "psu-ooe/wp-theme-orig": "^1.0",
         "wpackagist-plugin/events-manager": "5.2.1",
-        "PSU-OOE/events-manager-pro": "^5.0"
+        "PSU-OOE/events-manager-pro": "^5.0",
+        "PSU-OOE/wp-facebook-feed-pro": "^4.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
