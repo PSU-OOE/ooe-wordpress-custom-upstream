@@ -35,6 +35,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/wp-gravity-forms-constant-contact"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/wp-mega-menu-pro"
     }
   ],
   "require": {
