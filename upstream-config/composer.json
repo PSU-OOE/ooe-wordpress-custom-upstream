@@ -64,7 +64,8 @@
         "psu-ooe/wp-gravity-forms": "^2.0",
         "psu-ooe/wp-gravity-forms-adv-post-creation": "^1.0",
         "psu-ooe/wp-gravity-forms-constant-contact": "^1.0",
-        "wpackagist-plugin/add-search-to-menu": "^5.0"
+        "wpackagist-plugin/add-search-to-menu": "^5.0",
+        "wpackagist-plugin/megamenu": "^3.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
