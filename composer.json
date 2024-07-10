@@ -39,6 +39,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/wp-mega-menu-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/wp-oasis-workflow-pro"
     }
   ],
   "require": {
