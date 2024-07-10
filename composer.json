@@ -23,6 +23,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/wp-facebook-feed-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/wp-gravity-forms"
     }
   ],
   "require": {
