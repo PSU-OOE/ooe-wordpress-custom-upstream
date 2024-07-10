@@ -62,7 +62,8 @@
         "psu-ooe/events-manager-pro": "^5.0",
         "psu-ooe/wp-facebook-feed-pro": "^4.0",
         "psu-ooe/wp-gravity-forms": "^2.0",
-        "psu-ooe/wp-gravity-forms-adv-post-creation": "^1.0"
+        "psu-ooe/wp-gravity-forms-adv-post-creation": "^1.0",
+        "psu-ooe/wp-gravity-forms-constant-contact": "^1.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
