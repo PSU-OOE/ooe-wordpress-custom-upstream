@@ -28,6 +28,11 @@
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/wp-gravity-forms"
     }
+    ,
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/wp-gravity-forms-adv-post-creation"
+    }
   ],
   "require": {
     "pantheon-systems/upstream-management": "^1.0",
