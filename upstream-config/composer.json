@@ -67,7 +67,8 @@
         "wpackagist-plugin/add-search-to-menu": "^5.0",
         "wpackagist-plugin/megamenu": "^3.0",
         "psu-ooe/wp-mega-menu-pro": "^2.0",
-        "psu-ooe/wp-oasis-workflow-pro": "^9.0"
+        "psu-ooe/wp-oasis-workflow-pro": "^9.0",
+        "psu-ooe/omc-widget-loader": "^1.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",

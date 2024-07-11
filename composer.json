@@ -43,6 +43,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/wp-oasis-workflow-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/omc-widget-loader"
     }
   ],
   "require": {
