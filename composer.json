@@ -47,6 +47,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/omc-widget-loader"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/ooe-accordion"
     }
   ],
   "require": {
