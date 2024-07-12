@@ -69,7 +69,8 @@
         "psu-ooe/wp-mega-menu-pro": "^2.0",
         "psu-ooe/wp-oasis-workflow-pro": "^9.0",
         "psu-ooe/omc-widget-loader": "^1.0",
-        "psu-ooe/ooe-accordion": "^1.0"
+        "psu-ooe/ooe-accordion": "^1.0",
+        "psu-ooe/ooe-constant-contact-manager": "^1.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",

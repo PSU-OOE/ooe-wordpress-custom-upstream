@@ -51,6 +51,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/PSU-OOE/ooe-accordion"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PSU-OOE/ooe-constant-contact-manager"
     }
   ],
   "require": {
