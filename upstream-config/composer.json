@@ -72,7 +72,8 @@
         "psu-ooe/ooe-accordion": "^1.0",
         "psu-ooe/ooe-constant-contact-manager": "^1.0",
         "psu-ooe/ooe-slider-picker": "^1.0",
-        "wpackagist-plugin/embed-sched": "1.1.9"
+        "wpackagist-plugin/embed-sched": "1.1.9",
+        "wpackagist-plugin/user-role-editor": "4.64.2"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
