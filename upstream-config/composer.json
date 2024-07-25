@@ -74,7 +74,8 @@
         "psu-ooe/ooe-slider-picker": "^1.0",
         "wpackagist-plugin/embed-sched": "1.1.9",
         "wpackagist-plugin/user-role-editor": "4.64.2",
-        "psu-ooe/wp-user-role-editor-pro": "^4.0"
+        "psu-ooe/wp-user-role-editor-pro": "^4.0",
+        "psu-ooe/PSUOutreachMarketing": "^2.0"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
