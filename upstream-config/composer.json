@@ -70,7 +70,7 @@
         "psu-ooe/omc-widget-loader": "^1.0",
         "psu-ooe/ooe-accordion": "^1.0",
         "psu-ooe/ooe-constant-contact-manager": "^1.0",
-        "psu-ooe/ooe-slider-picker": "^1.0",
+        "psu-ooe/ooe-slider-picker": "^3.0",
         "wpackagist-plugin/embed-sched": "1.1.9",
         "wpackagist-plugin/user-role-editor": "4.64.2",
         "psu-ooe/wp-user-role-editor-pro": "^4.0",
