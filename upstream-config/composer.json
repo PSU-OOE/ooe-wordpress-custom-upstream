@@ -59,7 +59,7 @@
         "wpackagist-plugin/redis-cache": "2.5.2",
         "wpackagist-plugin/events-manager": "5.2.1",
         "psu-ooe/events-manager-pro": "^5.0",
-        "psu-ooe/facebook-feed-pro": "^4.0",
+        "psu-ooe/custom-facebook-feed-pro": "^4.0",
         "psu-ooe/gravityforms": "^2.0",
         "psu-ooe/gravityformsadvancedpostcreation": "^1.0",
         "psu-ooe/gravityformsconstantcontact": "^1.0",
